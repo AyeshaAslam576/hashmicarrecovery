@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hashmi Car Recovery & Vehicle Transport | Sahianwala Interchange",
+  title: "Hashmi Car Recovery & Towing | Sahianwala Interchange",
   description:
-    "Professional car recovery and flatbed vehicle transport from Sahianwala Interchange. Call 0300 1658231 or WhatsApp for fast roadside recovery across Pakistan.",
+    "Professional car recovery and Towing from Sahianwala Interchange. Call 0300 1658231 or WhatsApp for fast roadside recovery across Pakistan.",
   icons: {
     icon: "/images/mylogo.jpg",
     apple: "/images/mylogo.jpg",

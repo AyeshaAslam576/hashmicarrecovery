@@ -27,16 +27,16 @@ export default function HeroSection() {
           <h1 className="text-4xl sm:text-5xl xl:text-6xl font-extrabold text-white leading-[1.1] mb-5">
             Hashmi Car Recovery<br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400">
-              &amp; Vehicle Transport
+              &amp; Towing
             </span>
           </h1>
 
-          <p className="urdu text-white/50 text-sm mb-4 leading-loose">
-            ہاشمی کار ریکوری اینڈ وہیکل ٹرانسپورٹ
+          <p className="urdu text-white/50 text-lg mb-4 leading-loose">
+            ہاشمی کار ریکوری اینڈ ٹوئنگ
           </p>
 
           <p className="text-slate-300 text-lg mb-8 leading-relaxed max-w-lg">
-            Professional flatbed recovery &amp; vehicle transport from
+            Professional flatbed recovery &amp; towing from
             Sahianwala Interchange — across all major cities of Pakistan.
           </p>
 
