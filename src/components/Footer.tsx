@@ -50,7 +50,7 @@ export default function Footer() {
                 Hashmi Car Recovery &amp; Vehicle Transport
               </span>
               <span className="text-sm text-white/50">
-                Dar-ul-Ahsan Toll Plaza, Sahiwal Interchange
+                Dar-ul-Ahsan Toll Plaza, Sahianwala Interchange
               </span>
             </div>
           </div>
@@ -139,7 +139,7 @@ export default function Footer() {
                     <IconMapPin className="w-4 h-4" />
                   </span>
                   <span className="text-xs text-white/60 leading-relaxed">
-                    Dar-ul-Ahsan Toll Plaza,<br />Sahiwal Interchange
+                    Dar-ul-Ahsan Toll Plaza,<br />Sahianwala Interchange
                   </span>
                 </li>
               </ul>

@@ -6,7 +6,7 @@ export default function TopBar() {
     <div className="bg-[#1D4ED8] text-white text-sm h-10 flex items-center">
       <div className="max-w-7xl mx-auto px-4 w-full flex items-center justify-between">
         <span className="text-white/90 hidden sm:block text-xs font-medium tracking-wide">
-          🚛 Fast Flatbed Recovery at Sahiwal Interchange &amp; Across Punjab — 24/7
+          🚛 Fast Flatbed Recovery at Sahianwala Interchange &amp; Across Punjab — 24/7
         </span>
         <Link
           href="https://wa.me/923001658231?text=Hello%2C%20I%20need%20car%20recovery%20services"

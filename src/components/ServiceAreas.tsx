@@ -25,7 +25,7 @@ export default function ServiceAreas() {
           </span>
           <h2 className="text-4xl sm:text-5xl font-extrabold text-white mb-4">Service Areas</h2>
           <p className="text-slate-400 text-lg max-w-lg mx-auto">
-            From Sahiwal Interchange we provide 24/7 flatbed recovery and vehicle transport to major cities across Pakistan.
+            From Sahianwala Interchange we provide 24/7 flatbed recovery and vehicle transport to major cities across Pakistan.
           </p>
         </div>
 
@@ -50,7 +50,7 @@ export default function ServiceAreas() {
         </div>
 
         <p className="text-center text-slate-500 text-sm mt-10">
-          📍 Based at <span className="text-white font-medium">Dar-ul-Ahsan Toll Plaza, Sahiwal Interchange</span> — strategically located on the motorway network
+          📍 Based at <span className="text-white font-medium">Dar-ul-Ahsan Toll Plaza, Sahianwala Interchange</span> — strategically located on the motorway network
         </p>
       </div>
     </section>

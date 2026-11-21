@@ -37,7 +37,7 @@ export default function HeroSection() {
 
           <p className="text-slate-300 text-lg mb-8 leading-relaxed max-w-lg">
             Professional flatbed recovery &amp; vehicle transport from
-            Sahiwal Interchange — across all major cities of Pakistan.
+            Sahianwala Interchange — across all major cities of Pakistan.
           </p>
 
           <div className="flex flex-wrap gap-3 mb-8">
@@ -50,7 +50,7 @@ export default function HeroSection() {
               className="inline-flex items-center gap-2 border-2 border-green-600 text-green-400 hover:bg-green-700 hover:text-white hover:border-green-700 font-bold px-7 py-4 rounded-xl min-h-[52px] transition-all hover:-translate-y-0.5 no-underline">
               <IconWhatsApp className="w-5 h-5" /> WhatsApp Us
             </Link>
-            <Link href="https://www.google.com/maps/dir/?api=1&destination=Dar-ul-Ahsan+Toll+Plaza+Sahiwal+Interchange"
+            <Link href="https://www.google.com/maps/dir/?api=1&destination=Dar-ul-Ahsan+Toll+Plaza+Sahianwala+Interchange"
               target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-blue-700 hover:bg-blue-800 text-white font-bold px-7 py-4 rounded-xl min-h-[52px] transition-all hover:-translate-y-0.5 no-underline">
               🗺️ Directions
@@ -59,7 +59,7 @@ export default function HeroSection() {
 
           <p className="flex items-center gap-2 text-white/50 text-sm">
             <IconMapPin className="w-4 h-4 text-blue-400 flex-shrink-0" />
-            Dar-ul-Ahsan Toll Plaza, Sahiwal Interchange
+            Dar-ul-Ahsan Toll Plaza, Sahianwala Interchange
           </p>
         </div>
 

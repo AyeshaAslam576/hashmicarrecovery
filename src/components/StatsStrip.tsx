@@ -12,7 +12,7 @@ export default function StatsStrip() {
     },
     {
       emoji: "📍",
-      label: "Sahiwal Interchange",
+      label: "Sahianwala Interchange",
       sub: "Centrally Located",
     },
   ];

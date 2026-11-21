@@ -90,7 +90,7 @@ export default function ContactSection() {
               <div className="flex items-start gap-2">
                 <IconMapPin className="w-5 h-5 text-[#1D4ED8] mt-0.5 flex-shrink-0" />
                 <p className="text-[#0B0F17] font-medium text-sm">
-                  Dar-ul-Ahsan Toll Plaza, Sahiwal Interchange
+                  Dar-ul-Ahsan Toll Plaza, Sahianwala Interchange
                 </p>
               </div>
               <p className="text-xs font-semibold uppercase tracking-wider text-slate-400 mt-2">
@@ -123,18 +123,18 @@ export default function ContactSection() {
           {/* Right: Map */}
           <div className="flex flex-col gap-4">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3416.0!2d73.1!3d30.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3922b4e0c00f7a0d%3A0x7a0d7a0d7a0d7a0d!2sSahiwal%2C+Pakistan!5e0!3m2!1sen!2s!4v1"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3416.0!2d73.1!3d30.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3922b4e0c00f7a0d%3A0x7a0d7a0d7a0d7a0d!2sSahianwala%2C+Pakistan!5e0!3m2!1sen!2s!4v1"
               width="100%"
               height="340"
               style={{ border: 0, borderRadius: "12px" }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Sahiwal Interchange map"
+              title="Sahianwala Interchange map"
               className="shadow-[0_2px_8px_rgba(0,0,0,0.08)]"
             />
             <Link
-              href="https://www.google.com/maps/dir/?api=1&destination=Dar-ul-Ahsan+Toll+Plaza+Sahiwal+Interchange"
+              href="https://www.google.com/maps/dir/?api=1&destination=Dar-ul-Ahsan+Toll+Plaza+Sahianwala+Interchange"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-[#1D4ED8] text-white font-semibold px-5 py-3 rounded-lg min-h-[52px] hover:bg-[#1E40AF] transition-colors no-underline text-sm text-center"
