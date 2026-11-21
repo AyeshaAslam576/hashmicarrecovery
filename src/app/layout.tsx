@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   title: "Hashmi Car Recovery & Vehicle Transport | Sahiwal Interchange",
   description:
     "Professional car recovery and flatbed vehicle transport from Sahiwal Interchange. Call 0300 1658231 or WhatsApp for fast roadside recovery across Pakistan.",
+  icons: {
+    icon: "/images/mylogo.jpg",
+    apple: "/images/mylogo.jpg",
+  },
 };
 
 export const viewport: Viewport = {
